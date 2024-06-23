@@ -30,45 +30,10 @@ let exoticomenu = `
 ┋𝄽͢͡🌃› _${usedPrefix}tyc_ 
 ┋𝄽͢͡🌃› _${usedPrefix}colaboradores_ 
 ┋𝄽͢͡🌃› _${usedPrefix}userprems_
-┋𝄽͢͡🌃› _${usedPrefix}cajafuerte_ 
-┋𝄽͢͡🌃› _${usedPrefix}menulist_ 
+┋𝄽͢͡🌃› _${usedPrefix}cajafuerte_
 ┋𝄽͢͡🌃› _${usedPrefix}serowner_
 ┋𝄽͢͡🌃› _${usedPrefix}tipobot_
 ╚•─•𝄽͢͡🪐⊰•┈┈┈┈┈┈┈┈•⊱🪐͢͡𝅃•─•╯
-
-
-╔•─•𝄽͢͡🎩⊰𝗦𝗨𝗕 𝗠𝗘𝗡𝗨𝗦⊱🎩͢͡𝅃•─•╮
-┋𝄽͢͡🍸› _${usedPrefix}submenus_
-┋𝄽͢͡🍸› _${usedPrefix}menulist_
-┋𝄽͢͡🍸› _${usedPrefix}menulist2_
-┋𝄽͢͡🍸› _${usedPrefix}menu2_
-┋𝄽͢͡🍸› _${usedPrefix}menuowner_
-┋𝄽͢͡🍸› _${usedPrefix}menuserbot_
-┋𝄽͢͡🍸› _${usedPrefix}menudown_ 
-┋𝄽͢͡🍸› _${usedPrefix}menugrupal_ 
-┋𝄽͢͡🍸› _${usedPrefix}menuinfo_ 
-┋𝄽͢͡🍸› _${usedPrefix}menuperfil_ 
-┋𝄽͢͡🍸› _${usedPrefix}menueditbot_ 
-┋𝄽͢͡🍸› _${usedPrefix}menusearch_ 
-┋𝄽͢͡🍸› _${usedPrefix}menueditaudios_ 
-┋𝄽͢͡🍸› _${usedPrefix}menuia_ 
-┋𝄽͢͡🍸› _${usedPrefix}menuinstall_ 
-┋𝄽͢͡🍸› _${usedPrefix}menuhrms_ 
-┋𝄽͢͡🍸› _${usedPrefix}menuaudios_ 
-┋𝄽͢͡🍸› _${usedPrefix}menustickbot_ 
-┋𝄽͢͡🍸› _${usedPrefix}menuban_ 
-┋𝄽͢͡🍸› _${usedPrefix}menusticker_ 
-┋𝄽͢͡🍸› _${usedPrefix}menueditgroup_ 
-┋𝄽͢͡🍸› _${usedPrefix}menuanime_ 
-┋𝄽͢͡🍸› _${usedPrefix}menumaker_ 
-┋𝄽͢͡🍸› _${usedPrefix}menuefectos_ 
-┋𝄽͢͡🍸› _${usedPrefix}menuexotico_ 
-┋𝄽͢͡🍸› _${usedPrefix}menunf_ 
-┋𝄽͢͡🍸› _${usedPrefix}menuconvert_ 
-┋𝄽͢͡🍸› _${usedPrefix}menurpg_ 
-┋𝄽͢͡🍸› _${usedPrefix}menujuegos_ 
-┋𝄽͢͡🍸› _${usedPrefix}menuadulto_ 
-╚•─•𝄽͢͡🎩⊰•┈┈┈┈┈┈┈┈•⊱🎩͢͡𝅃•─•╯
 
 
 ╔•─•𝄽͢͡🎆⊰𝗘𝗫𝗢𝗧𝗜𝗖𝗢 𝗕𝗢𝗧⊱🎆͢͡𝅃•─•╮
