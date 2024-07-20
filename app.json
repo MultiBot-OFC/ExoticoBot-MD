@@ -1,0 +1,18 @@
+{
+"name": "ExoticoBot-MD",
+"website": "https://github.com/MultiBot-OFC",
+"description": "Bot de WhatsApp avanzado",
+"repository": "https://github.com/MultiBot-OFC/ExoticoBot-MD",
+"logo": "https://telegra.ph/file/516ff7b7c47cbf5b58a38.png",
+"success_url": "https://github.com/MultiBot-OFC/ExoticoBot-MD",
+"keywords": [
+"nodejs", "heroku", "bot", "spanish", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
+"termux", "superbot", "multi-device", "md", "official", "javascript", "exoticobot"],
+"image": "heroku/nodejs",
+"buildpacks": [
+{ "url": "heroku/nodejs" },
+{ "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest" },
+{ "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git" },
+{ "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick" }    
+]
+}
